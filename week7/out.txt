@@ -1,0 +1,12 @@
+
+--- Solving for 200 items ---
+(i) Heuristic: obj = 6290, time = 0.0009s
+(ii) SA: obj = 6290, time = 0.0164s
+(iii) LP + Creation: obj = 6319, time = 0.0628s (LP obj = 6360.06541969)
+(iv) ILP: obj = 6337.0, time = 0.7365s
+
+--- Solving for 400 items ---
+(i) Heuristic: obj = 12350, time = 0.0014s
+(ii) SA: obj = 12350, time = 0.0152s
+(iii) LP + Creation: obj = 12928, time = 0.0446s (LP obj = 12956.930536550002)
+(iv) ILP: obj = 12932.0, time = 30.1065s
